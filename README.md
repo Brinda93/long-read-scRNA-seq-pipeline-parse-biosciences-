@@ -1,4 +1,3 @@
-# long-read-scRNA-seq-pipeline-parse-biosciences
 
 # Long-Read scRNA-seq Pipeline (Parse Biosciences + ONT)
 
