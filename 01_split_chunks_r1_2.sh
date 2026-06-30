@@ -8,7 +8,6 @@
 #SBATCH --mem=128G
 #SBATCH --time=48:00:00
 #SBATCH --partition=compute
-#SBATCH --mail-user=bxp5423@psu.edu
 #SBATCH --mail-type=ALL
 
 # Load conda environment
